@@ -1,2 +1,1 @@
-# ML_ClassificationModel
-This is an archive of one project I did in the Machine Learning I course at the University of Washington, Seattle in summer 2024. The project aimed to predict students' possibility to gain a certification in edx by comparing the performance of two classification models. 
+This is an archive of a class project I did in the Machine Learning I course at the University of Washington, Seattle in summer 2024. The project aimed to predict students' possibility of gaining certification in edx by comparing the performance of two classification models. In specific, decision trees and K-NN models are trained, tested, and compared. An accuracy rate of 95% is gained after testing on Kaggle. 
